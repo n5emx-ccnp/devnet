@@ -1,0 +1,26 @@
+AR LR DC 5
+AR LR DMZ 10
+Ar LR Mgmt 15
+AR-LR Public 20
+AR LR Vend 25
+Ar-LR-VPN 30
+MO-SpriTech=DC 7 to 10
+spritech DMZ
+spritech mgmt
+spritech Public
+spritech Vend
+spritech-VPN
+pb-dc 6 to 32
+
+
+
+
+
+
+
+
+
+
+
+azure
+jha
